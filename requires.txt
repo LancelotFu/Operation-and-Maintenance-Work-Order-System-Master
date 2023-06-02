@@ -2,3 +2,6 @@ npm install -g @vue/cli
 npm install vue-router
 npm i pubsub-js
 npm i element-ui -S
+npm i less@4.1.2
+npm i less-loader@6.0.0
+npm i vuex 3.6.2
