@@ -5,3 +5,4 @@ npm i element-ui -S
 npm i less@4.1.2
 npm i less-loader@6.0.0
 npm i vuex 3.6.2
+npm i echarts
