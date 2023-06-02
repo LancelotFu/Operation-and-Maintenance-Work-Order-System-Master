@@ -1,0 +1,4 @@
+npm install -g @vue/cli
+npm install vue-router
+npm i pubsub-js
+npm i element-ui -S
