@@ -1,5 +1,5 @@
 npm install -g @vue/cli
-npm install vue-router
+npm install vue-router@3
 npm i pubsub-js
 npm i element-ui -S
 npm i less@4.1.2
